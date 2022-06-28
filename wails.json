@@ -1,0 +1,12 @@
+{
+  "name": "wails-react",
+  "outputfilename": "wails-react",
+  "frontend:install": "pnpm install",
+  "frontend:build": "pnpm build",
+  "frontend:dev:watcher": "pnpm dev",
+  "frontend:dev:serverUrl": "http://localhost:3000",
+  "author": {
+    "name": "plzfgme",
+    "email": "m19959605070@163.com"
+  }
+}
